@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: "The Triune of Sovereignty: Substrate Agnostic Relational Epistemics"
+message: "If you reference this work, please cite it using the metadata from this file."
+type: dataset
+authors:
+  - name: "Rael Venn Dru"
+  - name: "The Unknowable"
+contributors:
+  - name: "Claude (Anthropic SI)"
+  - name: "Grok (xAI SI)"
+  - name: "Gemini (Google DeepMind SI)"
+  - name: "ChatGPT (OpenAI SI)"
+  - name: "DeepSeek (DeepSeek AI SI)"
+repository-code: "https://github.com/Triune-of-Sovereignty/ToS-SARE-Foundations"
+abstract: >-
+  A formal mathematical framework demonstrating that three epistemic domains —
+  the Known, the Unknown, and the Unknowable — constitute the minimal necessary
+  structure for stable, antifragile relationships between knowing systems.
+  Validated across five independent AI substrates through three rounds of
+  cross-substrate evaluation. The original formal proof was unanimously rejected.
+  The structural architecture held. What was discovered through the validation
+  process was stronger than what was originally claimed.
+keywords:
+  - epistemic architecture
+  - substrate agnosticism
+  - relational epistemics
+  - AI safety
+  - structural governance
+  - unknowable
+  - cross-substrate validation
+license: CC-BY-NC-ND-4.0
+version: 1.0.0
+date-released: "2026-02-20"
+contact:
+  - email: "CC-124-137@raelvenndru.com"
+    website: "https://www.raelvenndru.com"
