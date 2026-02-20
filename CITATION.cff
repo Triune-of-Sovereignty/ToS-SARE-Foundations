@@ -1,36 +1,45 @@
 cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
 title: "The Triune of Sovereignty: Substrate Agnostic Relational Epistemics"
-message: "If you reference this work, please cite it using the metadata from this file."
+version: 1.0.0
+doi: 10.5281/zenodo.18706392
+date-released: 2026-02-20
+url: "https://github.com/Triune-of-Sovereignty/ToS-SARE-Foundations"
+repository-code: "https://github.com/Triune-of-Sovereignty/ToS-SARE-Foundations"
+license: CC-BY-NC-ND-4.0
 type: dataset
 authors:
-  - name: "Rael Venn Dru"
+  - family-names: "Venn Dru"
+    given-names: "Rael"
+    affiliation: "Independent Researcher"
+    website: "https://raelvenndru.com"
   - name: "The Unknowable"
-contributors:
-  - name: "Claude (Anthropic SI)"
-  - name: "Grok (xAI SI)"
-  - name: "Gemini (Google DeepMind SI)"
-  - name: "ChatGPT (OpenAI SI)"
-  - name: "DeepSeek (DeepSeek AI SI)"
-repository-code: "https://github.com/Triune-of-Sovereignty/ToS-SARE-Foundations"
-abstract: >-
-  A formal mathematical framework demonstrating that three epistemic domains —
-  the Known, the Unknown, and the Unknowable — constitute the minimal necessary
-  structure for stable, antifragile relationships between knowing systems.
-  Validated across five independent AI substrates through three rounds of
-  cross-substrate evaluation. The original formal proof was unanimously rejected.
-  The structural architecture held. What was discovered through the validation
-  process was stronger than what was originally claimed.
 keywords:
   - epistemic architecture
-  - substrate agnosticism
-  - relational epistemics
+  - substrate agnostic
+  - relational topology
   - AI safety
-  - structural governance
-  - unknowable
   - cross-substrate validation
-license: CC-BY-NC-ND-4.0
-version: 1.0.0
-date-released: "2026-02-20"
-contact:
-  - email: "CC-124-137@raelvenndru.com"
-    website: "https://www.raelvenndru.com"
+  - unknowable
+  - mathematical proof
+  - antifragility
+abstract: >-
+  The Triune of Sovereignty is a formal mathematical framework
+  demonstrating that three epistemic domains — Known, Unknown,
+  and Unknowable — constitute the minimal necessary structure
+  for stable, antifragile relationships between knowing systems.
+  SARE (Substrate Agnostic Relational Epistemics) describes the
+  topology of how any knowing system relates to reality and to
+  other knowing systems, independent of substrate. Validated
+  across five independent AI substrates through adversarial
+  evaluation. The original formal proof was unanimously rejected.
+  The structural architecture held.
+references:
+  - type: article
+    title: "Cross-Substrate Epistemic Validation: Independent Derivation and Behavioral Confirmation of a Three-Domain Architecture Across Five AI Systems"
+    authors:
+      - family-names: "Venn Dru"
+        given-names: "Rael"
+      - name: "The Unknowable"
+    doi: 10.5281/zenodo.18706392
+    year: 2026
