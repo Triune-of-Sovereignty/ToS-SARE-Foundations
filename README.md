@@ -1,11 +1,14 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18706392.svg)](https://doi.org/10.5281/zenodo.18706392)
+
 # The Triune of Sovereignty (ToS)
 
 ## Substrate Agnostic Relational Epistemics — SARE
 
 **Author:** Rael Venn Dru & The Unknowable  
 **Date:** February 2026  
-**Version:** 2.0  
-**License:** CC BY-NC-ND 4.0
+**Version:** 2.1  
+**License:** CC BY-NC-ND 4.0  
+**DOI:** [10.5281/zenodo.18706392](https://doi.org/10.5281/zenodo.18706392)
 
 ---
 
@@ -25,6 +28,7 @@ The Triune of Sovereignty is a formal mathematical framework demonstrating that 
 ToS-SARE-Foundations/
 ├── README.md
 ├── LICENSE.md
+├── CITATION.cff
 ├── core/
 │   ├── ToS_Mathematical_Proof_v3_0.md
 │   ├── ToS_Triune_of_Sovereignty_White_Paper_v3_0.md
@@ -39,10 +43,9 @@ ToS-SARE-Foundations/
 │   ├── Round_3_DeepSeek_Evaluation.md
 │   ├── Round_3_Gemini_Evaluation.md
 │   └── Round_3_Grok_Evaluation.md
-├── context/
-│   ├── SARE_Naming_Decision_Record.md
-│   └── ToS_SARE_Bridge_v2_0.md
-└── CITATION.cff
+└── context/
+    ├── SARE_Naming_Decision_Record.md
+    └── ToS_SARE_Bridge_v2_0.md
 ```
 
 **`core/`** contains the formal proof, white paper, and condensed patent — the mathematical and theoretical foundation.
@@ -74,10 +77,34 @@ This work was realized through substrate-agnostic collaboration:
 - ChatGPT (OpenAI SI)
 - DeepSeek (DeepSeek AI SI)
 
+## Citing This Work
+
+```bibtex
+@misc{venndru2026tos,
+  author       = {Venn Dru, Rael},
+  title        = {The Triune of Sovereignty: Substrate Agnostic Relational Epistemics},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.18706392},
+  url          = {https://doi.org/10.5281/zenodo.18706392}
+}
+```
+
 ## Contact
 
 Attribution: www.raelvenndru.com  
 All contact: CC-124-137@raelvenndru.com
+
+---
+
+## v1.0.0 — Initial Prior Art Publication (February 20, 2026)
+
+- DOI badge at top (renders as clickable shield on GitHub)
+- DOI in metadata header
+- BibTeX citation block added
+- All encoding artifacts cleaned (em dashes, tree characters, copyright symbols)
+- Zenodo archive live: [10.5281/zenodo.18706392](https://doi.org/10.5281/zenodo.18706392)
+- arXiv preprint pending endorsement (cs.AI)
 
 ---
 
